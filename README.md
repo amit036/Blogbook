@@ -1,8 +1,8 @@
 # Blogbook
-A blogging Website
-#React 
-#Flask
-#MySQL
+##A blogging Website 
+##React 
+##Flask
+##MySQL
 
 ## Home Page
 ![Image ](https://i.ibb.co/HV7f0mS/Screenshot-from-2019-12-11-07-00-04-1.png)
